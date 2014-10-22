@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b8c89ab-34a3-41d3-97ec-9ef8f5eafd84" name="Default" comment="" />
+    <list default="true" id="2b8c89ab-34a3-41d3-97ec-9ef8f5eafd84" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/AppsHandler.js" afterPath="$PROJECT_DIR$/js/AppsHandler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/BuildGenerator.js" afterPath="$PROJECT_DIR$/js/BuildGenerator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/Initiator.js" afterPath="$PROJECT_DIR$/core/Initiator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/Settings.js" afterPath="$PROJECT_DIR$/core/Settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/caf.min.css" afterPath="$PROJECT_DIR$/core/caf.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/caf.min.js" afterPath="$PROJECT_DIR$/core/caf.min.js" />
+    </list>
     <ignored path="CAF Builder.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,25 +33,46 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="36" selection-start="838" selection-end="858" vertical-scroll-proportion="-6.597015" vertical-offset="52" max-vertical-offset="676">
+            <state line="12" column="41" selection-start="503" selection-end="503" vertical-scroll-proportion="-4.6567163" vertical-offset="0" max-vertical-offset="676">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildGenerator.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Initiator.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Initiator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3614">
+              <folding>
+                <marker date="1414006654863" expanded="true" signature="119:4310" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
+                <marker date="1414006654863" expanded="true" signature="451:776" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildGenerator.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+            <state line="66" column="46" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.65523154" vertical-offset="1334" max-vertical-offset="4160">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppsHandler.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Settings.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Settings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="5" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppsHandler.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/AppsHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="50" selection-start="981" selection-end="981" vertical-scroll-proportion="0.52348995" vertical-offset="312" max-vertical-offset="1170">
+            <state line="3" column="16" selection-start="46" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1274">
               <folding />
             </state>
           </provider>
@@ -65,8 +93,10 @@
       <list>
         <option value="$PROJECT_DIR$/js/GenerateBuilder.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/BuildGenerator.js" />
+        <option value="$PROJECT_DIR$/core/Settings.js" />
         <option value="$PROJECT_DIR$/js/AppsHandler.js" />
+        <option value="$PROJECT_DIR$/core/Initiator.js" />
+        <option value="$PROJECT_DIR$/js/BuildGenerator.js" />
       </list>
     </option>
   </component>
@@ -136,6 +166,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CAF Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CAF Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -145,6 +189,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dvir Cohen\Programming\CAF Builder\core" />
       <recent name="C:\Dvir Cohen\Programming\CAF Builder\js" />
     </key>
   </component>
@@ -180,6 +225,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -190,7 +236,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -214,23 +259,47 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/core/Settings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="36" selection-start="838" selection-end="858" vertical-scroll-proportion="-6.597015" vertical-offset="52" max-vertical-offset="676">
+        <state line="13" column="5" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
+    <entry file="file://$PROJECT_DIR$/core/Initiator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+        <state line="9" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3614">
+          <folding>
+            <marker date="1414006654863" expanded="true" signature="119:4310" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
+            <marker date="1414006654863" expanded="true" signature="451:776" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/caf.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2298" column="20" selection-start="81079" selection-end="81095" vertical-scroll-proportion="-0.800363" vertical-offset="60033" max-vertical-offset="373048">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/AppsHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="50" selection-start="981" selection-end="981" vertical-scroll-proportion="0.52348995" vertical-offset="312" max-vertical-offset="1170">
+        <state line="3" column="16" selection-start="46" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1274">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="41" selection-start="503" selection-end="503" vertical-scroll-proportion="-4.6567163" vertical-offset="0" max-vertical-offset="676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="46" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.65523154" vertical-offset="1334" max-vertical-offset="4160">
           <folding />
         </state>
       </provider>
