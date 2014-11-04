@@ -7,6 +7,8 @@ var BAppsHandler = Class({
     deleteAppURL:   'http://codletech-builder.herokuapp.com/NotExist',
     updateAppURL:   'http://codletech-builder.herokuapp.com/updateAppData',
     createAppURL:   'http://codletech-builder.herokuapp.com/newAppWithData',
+    compileAppURL:   'http://codletech-builder.herokuapp.com/compileApp',
+    publishAppURL:   'http://codletech-builder.herokuapp.com/publishApp',
     createApp: function(data,callback) {
         CNetwork.request(BAppsHandler.createAppURL,data,callback,
         function(error){ // Error

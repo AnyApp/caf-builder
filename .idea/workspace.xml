@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8c89ab-34a3-41d3-97ec-9ef8f5eafd84" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Dvir Cohen\Programming\CAF Builder\core\data.dcaf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/AppsHandler.js" afterPath="$PROJECT_DIR$/js/AppsHandler.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/BuildGenerator.js" afterPath="$PROJECT_DIR$/js/BuildGenerator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/Settings.js" afterPath="$PROJECT_DIR$/core/Settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/Initiator.js" afterPath="$PROJECT_DIR$/core/Initiator.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/caf.min.css" afterPath="$PROJECT_DIR$/core/caf.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/caf.min.js" afterPath="$PROJECT_DIR$/core/caf.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CAF Builder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +33,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="67" selection-start="869" selection-end="869" vertical-scroll-proportion="-14.114285" vertical-offset="0" max-vertical-offset="676">
+            <state line="16" column="37" selection-start="608" selection-end="672" vertical-scroll-proportion="-6.714286" vertical-offset="181" max-vertical-offset="702">
               <folding />
             </state>
           </provider>
@@ -43,24 +42,29 @@
       <file leaf-file-name="Initiator.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/Initiator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3614">
+            <state line="83" column="39" selection-start="2996" selection-end="2996" vertical-scroll-proportion="0.0" vertical-offset="1820" max-vertical-offset="3666">
               <folding>
-                <marker date="1414006654863" expanded="true" signature="119:4310" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
-                <marker date="1414006654863" expanded="true" signature="451:776" placeholder="{...}" />
+                <marker date="1414404848055" expanded="true" signature="119:4398" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
+                <marker date="1414404848055" expanded="true" signature="451:776" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildGenerator.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BuildGenerator.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="0" selection-start="6492" selection-end="6492" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="5668">
-              <folding>
-                <element signature="e#2680#2780#0" expanded="false" />
-                <element signature="e#2806#4195#0" expanded="false" />
-                <element signature="e#4260#4580#0" expanded="false" />
-              </folding>
+            <state line="120" column="66" selection-start="6107" selection-end="6112" vertical-scroll-proportion="0.33206108" vertical-offset="2946" max-vertical-offset="8736">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CafAppDataFilesHandler.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/CafAppDataFilesHandler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="17" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="936">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Settings.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Settings.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/Settings.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="38" selection-start="293" selection-end="293" vertical-scroll-proportion="0.47651008" vertical-offset="28" max-vertical-offset="624">
+            <state line="12" column="38" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="624">
               <folding>
                 <marker date="1414358485028" expanded="true" signature="54:298" placeholder="{...}" />
                 <marker date="1414358485028" expanded="true" signature="246:260" placeholder="{...}" />
@@ -89,7 +93,7 @@
       <file leaf-file-name="AppsHandler.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/AppsHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="46" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1274">
+            <state line="9" column="17" selection-start="392" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
               <folding />
             </state>
           </provider>
@@ -109,12 +113,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/js/GenerateBuilder.js" />
-        <option value="$PROJECT_DIR$/js/AppsHandler.js" />
         <option value="$PROJECT_DIR$/core/Initiator.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app-launcher.html" />
-        <option value="$PROJECT_DIR$/js/BuildGenerator.js" />
         <option value="$PROJECT_DIR$/core/Settings.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/CafAppDataFilesHandler.js" />
+        <option value="$PROJECT_DIR$/js/AppsHandler.js" />
+        <option value="$PROJECT_DIR$/js/BuildGenerator.js" />
       </list>
     </option>
   </component>
@@ -204,7 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Applications/את - בגדי נשים" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -275,7 +280,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -289,8 +296,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3614">
           <folding>
-            <marker date="1414006654863" expanded="true" signature="119:4310" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
-            <marker date="1414006654863" expanded="true" signature="451:776" placeholder="{...}" />
+            <marker date="1414404848055" expanded="true" signature="119:4398" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
+            <marker date="1414404848055" expanded="true" signature="451:776" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -298,11 +305,7 @@
     <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="30" selection-start="3325" selection-end="3325" vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="5070">
-          <folding>
-            <element signature="e#2680#2780#0" expanded="false" />
-            <element signature="e#2806#4195#0" expanded="false" />
-            <element signature="e#4260#4580#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -330,23 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/AppsHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="46" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1274">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/Initiator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3614">
-          <folding>
-            <marker date="1414006654863" expanded="true" signature="119:4310" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
-            <marker date="1414006654863" expanded="true" signature="451:776" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app-launcher.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="69" selection-start="773" selection-end="773" vertical-scroll-proportion="-8.971429" vertical-offset="154" max-vertical-offset="728">
@@ -354,31 +340,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
+    <entry file="file://$PROJECT_DIR$/core/Settings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="0" selection-start="6492" selection-end="6492" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="5668">
+        <state line="12" column="38" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="624">
           <folding>
-            <element signature="e#2680#2780#0" expanded="false" />
-            <element signature="e#2806#4195#0" expanded="false" />
-            <element signature="e#4260#4580#0" expanded="false" />
+            <marker date="1414358485028" expanded="true" signature="54:298" placeholder="{...}" />
+            <marker date="1414358485028" expanded="true" signature="246:260" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CafAppDataFilesHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Initiator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="39" selection-start="2996" selection-end="2996" vertical-scroll-proportion="0.0" vertical-offset="1820" max-vertical-offset="3666">
+          <folding>
+            <marker date="1414404848055" expanded="true" signature="119:4398" placeholder="{&quot;cafFilePrefix&quot;: 'caf-file-'...}" />
+            <marker date="1414404848055" expanded="true" signature="451:776" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="67" selection-start="869" selection-end="869" vertical-scroll-proportion="-14.114285" vertical-offset="0" max-vertical-offset="676">
+        <state line="16" column="37" selection-start="608" selection-end="672" vertical-scroll-proportion="-6.714286" vertical-offset="181" max-vertical-offset="702">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/Settings.js">
+    <entry file="file://$PROJECT_DIR$/js/AppsHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="293" selection-end="293" vertical-scroll-proportion="0.47651008" vertical-offset="28" max-vertical-offset="624">
-          <folding>
-            <marker date="1414358485028" expanded="true" signature="54:298" placeholder="{...}" />
-            <marker date="1414358485028" expanded="true" signature="246:260" placeholder="{...}" />
-          </folding>
+        <state line="9" column="17" selection-start="392" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/BuildGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="66" selection-start="6107" selection-end="6112" vertical-scroll-proportion="0.33206108" vertical-offset="2946" max-vertical-offset="8736">
+          <folding />
         </state>
       </provider>
     </entry>
